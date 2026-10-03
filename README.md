@@ -1,6 +1,6 @@
 #  Olá, eu sou o Vinicios Barboza 👋
 
-🚀 **Desenvolvedor Backend em formação** focado no ecossistema JavaScript/TypeScript.
+🚀 **Cloud/DevOps → Linux → Git → Redes → Docker → Cloud → CI/CD → IaC → Kubernetes → Observabilidad
 
 ### 🛠️ Tecnologias & Ferramentas
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
